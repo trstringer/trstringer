@@ -14,3 +14,5 @@ Blog posts that might be of interest from [trstringer.com](https://trstringer.co
 * [Errors and Error Wrapping in Go](https://trstringer.com/errors-and-error-wrapping-go/)
 * [Create a Release and Upload Artifacts with GitHub Actions](https://trstringer.com/github-actions-create-release-upload-artifacts/)
 * [Authenticate to Azure from Python](https://trstringer.com/authenticate-python-to-azure/)
+
+I'm writing a book! :zap: **DevOps with GitHub** :zap: Planned release summer 2022. Subscribe to the [my mailing list](https://store.trstringer.com/follow) to get an email when it is released.
