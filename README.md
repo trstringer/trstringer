@@ -2,7 +2,7 @@
 
 * **Technical focus** - Linux :penguin:  Kubernetes :whale: DevOps :zap: Azure :cloud: Python :snake: Go :star: MySQL
 * **What I do for work** - I work at Microsoft as a Software Engineer in Azure. I focus on developing software for Linux and Kubernetes
-* **Non-technical** -  Surfing :surfer: Snowboarding :snowboarder: Piano :musical_note:
+* **Non-technical** -  Surfing :surfer: Snowboarding :snowboarder: Classical piano :musical_note:
 
 Blog posts that might be of interest from [trstringer.com](https://trstringer.com)...
 
