@@ -16,4 +16,4 @@ Blog posts that might be of interest from [trstringer.com](https://trstringer.co
 * [Authenticate to Azure from Python](https://trstringer.com/authenticate-python-to-azure/)
 * [6 part series on Observability with OpenTelemetry](https://trstringer.com/otel-part1-intro/)
 
-I'm writing a book! :zap: [**DevOps with GitHub**](https://devops-with-github.com) :zap: Planned release winter 2022. Subscribe to the [my mailing list](https://store.trstringer.com/follow) to get an email when it is released.
+📗 [**DevOps with GitHub**](https://trstringer.gumroad.com/l/devops-with-github) book 📗
