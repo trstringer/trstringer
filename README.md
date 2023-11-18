@@ -1,6 +1,6 @@
 ### A little about me...
 
-* **Technical focus** - Linux :penguin:  Kubernetes :whale: DevOps :zap: Azure :cloud: Python :snake: Go :star: MySQL
+* **Technical focus** - Linux :penguin:  Kubernetes :whale: DevOps :zap: Cloud :cloud: Python :snake: Go :star: MySQL
 * **What I do for work** - I work as a Staff Software Engineer. I focus on developing software for Linux and Kubernetes
 * **Non-technical** -  Surfing :surfer: Snowboarding :snowboarder: Classical piano :musical_note:
 
